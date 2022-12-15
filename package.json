@@ -1,0 +1,21 @@
+{
+  "name": "markdownlint-rule-enhanced-proper-names",
+  "version": "0.0.1",
+  "description": "Enhanced proper-names rule for markdownlint",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdownlint-rule"
+  ],
+  "author": "Changjian Gao <gaochangjian@gmail.com>",
+  "repository": "github:xiaogaozi/markdownlint-rule-enhanced-proper-names",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.0",
+  "files": [
+    "src/*"
+  ],
+  "dependencies": {
+    "markdownlint-rule-helpers": "^0.17.2"
+  }
+}
